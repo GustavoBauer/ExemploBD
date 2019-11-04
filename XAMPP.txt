@@ -1,0 +1,2 @@
+Programa usado para fazer o MySQL rodar:
+https://www.youtube.com/watch?v=R2HrwSQ6EPM
